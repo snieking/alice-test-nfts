@@ -14,8 +14,8 @@ async function main() {
   // await hre.run('compile');
 
   // We get the contract to deploy
-  const ERC721 = await hre.ethers.getContractFactory('MysteriousSeeds');
-  const erc721 = await ERC721.deploy('Alice Mysterious Seed', 'AMS');
+  const ERC721 = await hre.ethers.getContractFactory('NFTs');
+  const erc721 = await ERC721.deploy('Midsummer with Alice', 'MWA');
 
   await erc721.deployed();
 

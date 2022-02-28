@@ -1,7 +1,7 @@
 const { expect } = require('chai');
 const { ethers } = require('hardhat');
 
-describe('MysteriousSeeds', function () {
+describe('NFTs', function () {
   let erc721;
 
   this.beforeEach(async function () {
@@ -11,8 +11,8 @@ describe('MysteriousSeeds', function () {
   });
 
   it('Should return correct name and symbol', async function () {
-    expect(await erc721.name()).to.equal('Alice Mysterious Seed');
-    expect(await erc721.symbol()).to.equal('AMS');
+    expect(await erc721.name()).to.equal('Midsummer with Alice');
+    expect(await erc721.symbol()).to.equal('MWA');
   });
 
   it('URL of NFT incremented successfully', async function () {

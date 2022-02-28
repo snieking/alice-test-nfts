@@ -2,7 +2,7 @@ pragma solidity ^0.8.10;
 
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 
-contract MysteriousSeeds is ERC721Enumerable {
+contract NFTs is ERC721Enumerable {
     uint256 public tokenCounter;
     mapping(uint256 => string) private _tokenURIs;
 
@@ -14,7 +14,7 @@ contract MysteriousSeeds is ERC721Enumerable {
         _safeMint(msg.sender, tokenCounter);
         _tokenURIs[tokenCounter] = string(
             abi.encodePacked(
-                "https://my-json-server.typicode.com/snieking/seed-test-nfts/seeds/",
+                "https://my-json-server.typicode.com/snieking/alice-test-nfts/seeds/",
                 uint2str(tokenCounter)
             )
         );
