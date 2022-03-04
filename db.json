@@ -27,128 +27,144 @@
     },
     {
       "id": 5,
-      "name": "Tanned Costume Shoes",
-      "image": "https://public.nftstatic.com/static/nft/res/b04902aa252b43dbace7d0346eccab9d.jpeg"
+      "name": "Azure Blue Headscarf",
+      "image": "https://public.nftstatic.com/static/nft/res/db845cbab4f4483f87501a27e8124435.jpeg"
     },
     {
       "id": 6,
-      "name": "Azure Blue Headscarf",
-      "image": "https://public.nftstatic.com/static/nft/res/db845cbab4f4483f87501a27e8124435.jpeg"
+      "name": "Fire Crown",
+      "image": "https://public.nftstatic.com/static/nft/res/be2fb67600dc4706838399c66842f9d2.jpeg"
     },
     {
       "id": 7,
-      "name": "Fire Crown",
-      "image": "https://public.nftstatic.com/static/nft/res/be2fb67600dc4706838399c66842f9d2.jpeg"
-    },
-    {
-      "id": 8,
       "name": "Flower Crown",
       "image": "https://public.nftstatic.com/static/nft/res/851fff69da98445099a7b618537f56c9.jpeg"
+    },
+
+    {
+      "id": 8,
+      "name": "Scandinavian Bunad",
+      "image": "https://public.nftstatic.com/static/nft/res/5231fcb7854c4487a2cb93665a4e7d5c.png"
     },
     {
       "id": 9,
-      "name": "Cherry Red Shoes",
-      "image": "https://public.nftstatic.com/static/nft/res/f1dde8c4514347489bcfb8dfa112ba77.jpeg"
+      "name": "Continental Tanned Costume",
+      "image": "https://public.nftstatic.com/static/nft/res/e8cf2d9583294cfbb0398fba0adc77ac.png"
     },
     {
       "id": 10,
-      "name": "Tanned Costume Shoes",
-      "image": "https://public.nftstatic.com/static/nft/res/b04902aa252b43dbace7d0346eccab9d.jpeg"
+      "name": "Cozy Knitted Cardigan",
+      "image": "https://public.nftstatic.com/static/nft/res/c28fcef77ebf443d8c3f5e45d921c94d.png"
     },
     {
       "id": 11,
-      "name": "Nut Brown Shoes",
-      "image": "https://public.nftstatic.com/static/nft/res/7e1c02499db24ee1a33e4c5f500b9d02.jpeg"
+      "name": "Warm Ribbed Pant",
+      "image": "https://public.nftstatic.com/static/nft/res/eb84c26e28a144dabf29d5e29a1383a6.png"
     },
     {
       "id": 12,
-      "name": "Sky Blue Costume",
-      "image": "https://public.nftstatic.com/static/nft/res/afed042947a74303a968a028c1ed0297.jpeg"
+      "name": "Fall Wreath",
+      "image": "https://public.nftstatic.com/static/nft/res/35d421e66b254c16ab7b232dfd276657.png"
     },
     {
       "id": 13,
-      "name": "Azure Blue Dress",
-      "image": "https://public.nftstatic.com/static/nft/res/89a9e693fa7642289fbd6b2cc506d36b.jpeg"
+      "name": "Western Burgundy Pumps",
+      "image": "https://public.nftstatic.com/static/nft/res/492312d7377a4bb9b6d6cf8c1f5d88aa.png"
     },
     {
       "id": 14,
-      "name": "Tanned Costume Shoes",
-      "image": "https://public.nftstatic.com/static/nft/res/b04902aa252b43dbace7d0346eccab9d.jpeg"
+      "name": "Friendship Headscarf",
+      "image": "https://public.nftstatic.com/static/nft/res/03baf26b04174a0bb4c9c2763b8b6d24.png"
     },
     {
       "id": 15,
-      "name": "Azure Blue Headscarf",
-      "image": "https://public.nftstatic.com/static/nft/res/db845cbab4f4483f87501a27e8124435.jpeg"
+      "name": "Wreath Crown of Autumn Leaves",
+      "image": "https://public.nftstatic.com/static/nft/res/6dfb3ea2555f48fb9fe5f5fb9332a16d.png"
     },
     {
       "id": 16,
-      "name": "Fire Crown",
-      "image": "https://public.nftstatic.com/static/nft/res/be2fb67600dc4706838399c66842f9d2.jpeg"
+      "name": "Wreath Crown of Summer Leaves",
+      "image": "https://public.nftstatic.com/static/nft/res/e7110b2e34cc4567a29470c944f6a62a.png"
     },
     {
       "id": 17,
-      "name": "Flower Crown",
-      "image": "https://public.nftstatic.com/static/nft/res/851fff69da98445099a7b618537f56c9.jpeg"
+      "name": "Moon Sun Jacket",
+      "image": "https://public.nftstatic.com/static/nft/res/6f45538f3b444e1095e8f5709ad5c3fb.png"
     },
     {
       "id": 18,
-      "name": "Cherry Red Shoes",
-      "image": "https://public.nftstatic.com/static/nft/res/f1dde8c4514347489bcfb8dfa112ba77.jpeg"
+      "name": "Sheep Costume",
+      "image": "https://public.nftstatic.com/static/nft/res/53d420f689454c75ab7daf7fde194916.png"
     },
     {
       "id": 19,
-      "name": "Tanned Costume Shoes",
-      "image": "https://public.nftstatic.com/static/nft/res/b04902aa252b43dbace7d0346eccab9d.jpeg"
+      "name": "Pig Suit",
+      "image": "https://public.nftstatic.com/static/nft/zipped/010254e3655f471e9534311e039074f7_zipped.png"
     },
     {
       "id": 20,
-      "name": "Nut Brown Shoes",
-      "image": "https://public.nftstatic.com/static/nft/res/7e1c02499db24ee1a33e4c5f500b9d02.jpeg"
+      "name": "Chick Costume",
+      "image": "https://public.nftstatic.com/static/nft/zipped/550835fc2c7a44f4b7f5e9a44cd1d884_zipped.png"
     },
     {
       "id": 21,
-      "name": "Sky Blue Costume",
-      "image": "https://public.nftstatic.com/static/nft/res/afed042947a74303a968a028c1ed0297.jpeg"
-    },
-    {
-      "id": 22,
-      "name": "Azure Blue Dress",
-      "image": "https://public.nftstatic.com/static/nft/res/89a9e693fa7642289fbd6b2cc506d36b.jpeg"
+      "name": "Cow Suit",
+      "image": "https://public.nftstatic.com/static/nft/zipped/5c7200e49456482285412494f524ae5d_zipped.png"
     },
     {
       "id": 23,
-      "name": "Tanned Costume Shoes",
-      "image": "https://public.nftstatic.com/static/nft/res/b04902aa252b43dbace7d0346eccab9d.jpeg"
+      "name": "Bunny Suit",
+      "image": "https://public.nftstatic.com/static/nft/zipped/c61b8c7d14e44689b5c33a0e202a48af_zipped.png"
     },
     {
       "id": 24,
-      "name": "Azure Blue Headscarf",
-      "image": "https://public.nftstatic.com/static/nft/res/db845cbab4f4483f87501a27e8124435.jpeg"
+      "name": "Bat Headband",
+      "image": "https://public.nftstatic.com/static/nft/zipped/73a03a9295ed416ca6c09ec423d2b422_zipped.png"
     },
     {
       "id": 25,
-      "name": "Fire Crown",
-      "image": "https://public.nftstatic.com/static/nft/res/be2fb67600dc4706838399c66842f9d2.jpeg"
+      "name": "Wedding Suit",
+      "image": "https://public.nftstatic.com/static/nft/zipped/9eb354e04c2c4edaa5a117f0d818ae8f_zipped.png"
+    },
+    {
+      "id": 25,
+      "name": "Farmer Johan Costume",
+      "image": "https://public.nftstatic.com/static/nft/zipped/328d09cb16b24f779907bdef01f9f6bd_zipped.png"
     },
     {
       "id": 26,
-      "name": "Flower Crown",
-      "image": "https://public.nftstatic.com/static/nft/res/851fff69da98445099a7b618537f56c9.jpeg"
+      "name": "Bunny Ears",
+      "image": "https://public.nftstatic.com/static/nft/zipped/aede0ec955b24534b85d22306093c856_zipped.png"
     },
     {
       "id": 27,
-      "name": "Cherry Red Shoes",
-      "image": "https://public.nftstatic.com/static/nft/res/f1dde8c4514347489bcfb8dfa112ba77.jpeg"
+      "name": "Bridal Gown",
+      "image": "https://public.nftstatic.com/static/nft/zipped/59e17629633347d59d76a6660d28cc96_zipped.png"
     },
     {
       "id": 28,
-      "name": "Tanned Costume Shoes",
-      "image": "https://public.nftstatic.com/static/nft/res/b04902aa252b43dbace7d0346eccab9d.jpeg"
+      "name": "Ski Hat",
+      "image": "https://public.nftstatic.com/static/nft/res/2c31f9d39976495e8b7a7eeb29dfc729.png"
     },
     {
       "id": 29,
-      "name": "Nut Brown Shoes",
-      "image": "https://public.nftstatic.com/static/nft/res/7e1c02499db24ee1a33e4c5f500b9d02.jpeg"
+      "name": "To the Moon! Boots",
+      "image": "https://public.nftstatic.com/static/nft/res/9fa3bbd5b48742f3b83a52926b9de8c3.jpeg"
+    },
+    {
+      "id": 30,
+      "name": "Ugly Sweater",
+      "image": "https://public.nftstatic.com/static/nft/res/964af1d864f44b2dbc897544c1dca506.png"
+     }
+    ,{
+      "id": 31,
+      "name": "Snow Yeti Costume",
+      "image": "https://public.nftstatic.com/static/nft/res/a281dd845c084dc48610b08f6e49e11f.png"
+    },
+    {
+      "id": 32,
+      "name": "Reindeer Costume",
+      "image": "https://public.nftstatic.com/static/nft/res/d9a48ffa6a9a41efb07723b32fa373cb.png"
     }
   ],
   "profile": {
